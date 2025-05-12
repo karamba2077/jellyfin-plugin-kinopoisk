@@ -9,6 +9,33 @@
     "imageUrl": "https://kinopoisk.userecho.com/s/attachments/28876/0/1/25f8c0315e6ccb2aa6c2642e48f2c9e9.png",
     "versions": [
       {
+        "version": "10.10.7.0",
+        "checksum": "209e6cbc14a9563d1491ddd4d9dec4e9",
+        "changelog": "new release",
+        "name": "КиноПоиск",
+        "targetAbi": "10.9.0",
+        "sourceUrl": "https://github.com/karamba2077/jellyfin-plugin-kinopoisk/raw/refs/heads/master/dist/kinopoisk/kinopoisk_10.10.7.0.zip",
+        "timestamp": "2025-05-12T21:51:39Z"
+      },
+      {
+        "version": "10.9.0.0",
+        "checksum": "815606bb76f908b8e4713e9fbe725125",
+        "changelog": "new release",
+        "name": "КиноПоиск",
+        "targetAbi": "10.9.0",
+        "sourceUrl": "https://raw.githubusercontent.com/LinFor/jellyfin-plugin-kinopoisk/master/dist/kinopoisk/kinopoisk_10.9.0.0.zip",
+        "timestamp": "2025-05-12T13:08:01Z"
+      },
+      {
+        "version": "10.9.0.0",
+        "checksum": "fc47fed341a288df6818b2d04d14f07b",
+        "changelog": "new release",
+        "name": "КиноПоиск",
+        "targetAbi": "10.9.0",
+        "sourceUrl": "https://raw.githubusercontent.com/LinFor/jellyfin-plugin-kinopoisk/master/dist/kinopoisk/kinopoisk_10.9.0.0.zip",
+        "timestamp": "2025-05-12T12:12:40Z"
+      },
+      {
         "version": "10.9.0.0",
         "checksum": "46f29865d6ddb8e66f577ffd93cb8a55",
         "changelog": "new release",
